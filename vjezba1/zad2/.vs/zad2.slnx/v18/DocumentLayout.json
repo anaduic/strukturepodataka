@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anadu\\OneDrive\\Desktop\\vjezbe\\vjezba1\\zad2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A4A8E48-D737-4231-9807-C1144629E122}|zad2\\zad2.vcxproj|C:\\Users\\anadu\\OneDrive\\Desktop\\vjezbe\\vjezba1\\zad2\\zad2\\zad2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1A4A8E48-D737-4231-9807-C1144629E122}|zad2\\zad2.vcxproj|solutionrelative:zad2\\zad2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "zad2.c",
+              "DocumentMoniker": "C:\\Users\\anadu\\OneDrive\\Desktop\\vjezbe\\vjezba1\\zad2\\zad2\\zad2.c",
+              "RelativeDocumentMoniker": "zad2\\zad2.c",
+              "ToolTip": "C:\\Users\\anadu\\OneDrive\\Desktop\\vjezbe\\vjezba1\\zad2\\zad2\\zad2.c",
+              "RelativeToolTip": "zad2\\zad2.c",
+              "ViewState": "AgIAAKMAAAAAAAAAAAAowLQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-10-20T20:15:03.75Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
